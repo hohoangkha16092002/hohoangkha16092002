@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hohoangkha1609&theme=calm-pink&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohoangkha1609&show_icons=true&theme=calm_pink)
 <!--
 **hohoangkha16092002/hohoangkha16092002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
