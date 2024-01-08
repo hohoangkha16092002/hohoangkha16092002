@@ -1,5 +1,5 @@
 ### Hi, I'm Hoang Kha!
-<p><em>Information technology at <a href="https://ntu.edu.vn/">University of Nha Trang</a></em></p>
+<p><em>Information technology at <a href="https://ntu.edu.vn/">Nha Trang University</a></em></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hohoangkha16092002&theme=calm-pink&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohoangkha16092002&show_icons=true&theme=calm_pink)
